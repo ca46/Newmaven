@@ -7,7 +7,7 @@ public class ExcelMain {
 
 		String name =Excel.readStringData(1,0);
 
-		System.out.println("Name :"+ "\t"+name);
+		System.out.println("Name .:"+ "\t"+name);
 
 		String id= Excel.readIntegerData(1, 1);
 
