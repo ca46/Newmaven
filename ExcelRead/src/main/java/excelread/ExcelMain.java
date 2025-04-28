@@ -11,7 +11,8 @@ public class ExcelMain {
 
 		String id= Excel.readIntegerData(1, 1);
 
-		System.out.println("id :"+"\t"+ id);
+		System
+		.out.println("id :"+"\t"+ id);
 
 
 
